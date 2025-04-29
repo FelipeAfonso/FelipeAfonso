@@ -1,6 +1,6 @@
 # Hi there! I'm Felipe
 
-## Software Engineer at Liftup Capital
+## Software Engineer at HomeOptions
 
 - Currently focused on frontend development
 - Building tailored solutions for specific challenges
